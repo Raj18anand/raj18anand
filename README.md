@@ -30,11 +30,11 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About</h2>
 
 ###
 
-<p align="left">I am a Software Engineer with a keen interest in Full Stack Development. My journey in the world of programming and technology has been a fascinating one, and I am always eager to learn and apply new concepts.<br><br>My goal is to align my passion for problem solving with a growth-oriented company where I can utilize my skills and gain valuable experience while enhancing company's productivity, reputation, and profitability. I thrive in environments that foster creativity and offer the chance to make a meaningful impact. Eager to contribute my skills in team management, commitment, and effective communication, I am actively seeking a challenging opportunity in an innovative organization.</p>
+<p align="left">My goal is to align my passion for problem solving with a growth-oriented company where I can utilize my skills and gain valuable experience while enhancing company's productivity, reputation, and profitability. I thrive in environments that foster creativity and offer the chance to make a meaningful impact. Eager to contribute my skills in team management, commitment, and effective communication, I am actively seeking a challenging opportunity in an innovative organization.</p>
 
 ###
 
